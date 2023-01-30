@@ -53,8 +53,8 @@ logo=("""\033[1;37m
 ----------------------------------------------
 Author    : ABU BAKAR
 Tool Name : JHALLA
- Type type : PAID
- Version   : 1.9.8
+Type type : FREE
+Version   : 1.9.8
 ----------------------------------------------
 DILOUG: KASH KOI APNA HOTA🤞
 \033[1;37m----------------------------------------------""")
